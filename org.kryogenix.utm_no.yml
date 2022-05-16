@@ -26,7 +26,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/stuartlangridge/utm_no.git
-        commit: e0d5fa2d5b0e12d1221d3ada43a8df49c0d3eb23
+        commit: 72104a360eb398e3a13908d96c4e67e1ca795c51
 
   - name: python3-requests
     buildsystem: simple
